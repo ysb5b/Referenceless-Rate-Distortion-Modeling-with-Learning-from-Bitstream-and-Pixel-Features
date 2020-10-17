@@ -1,9 +1,9 @@
-
+TensorFLow implementation of "Referenceless Rate-Distortion Modeling with Learning from Bitstream and Pixel Features", ACM MM 2020. 
+(used name "PmR-QP: Prediction-Based R-QP Modeling on Bitrate Estimation")
 
 # CITATION
 >
-###### If you find this work helpful, please consider citing the following paper:
-
+If you find this work helpful, please consider citing the following paper:
 
 >@inproceedings{sun2020referenceless,  
   title={Referenceless Rate-Distortion Modeling with Learning from Bitstream and Pixel Features},  
@@ -12,4 +12,9 @@
   pages={2481--2489},  
   year={2020}  
 }
+
+
+# CONTACT
+>
+Any question regarding this work can be addressed to ysb5b@umsystem.edu.
 
